@@ -1,3 +1,4 @@
 # odin-recipes
 
-I have no idea what this project is going to be about other than some recipes, but I will try to make something of it.
+This is a project about soups, enjoy the complete list of soups you'll ever need.
+ Do not open
